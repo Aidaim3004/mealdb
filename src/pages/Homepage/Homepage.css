@@ -1,0 +1,43 @@
+
+.centerHomePages{
+    text-align: center;
+    color: white;
+    line-height: 30px;
+    padding-bottom: 30px;
+    border-bottom: 3px solid white;
+    margin-bottom: 35px;
+}
+.welcome {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.welcome:after{
+    content: url("/src/assets/images/meal-icon.png");
+    width: 130px;
+    height: 2px;
+    position: absolute;
+    left: -51px;
+    top: -29px;
+}
+.welcome:before{
+    content: url("/src/assets/images/meal-icon.png");
+    width: 130px;
+    height: 2px;
+    position: absolute;
+    right: 106px;
+    top: -26px;
+}
+span{
+    color: #88631d;
+}
+span:hover{
+    color: #f1b549;
+}
+.img-paypal{
+    max-width: 50%;
+    color: #f1b549;
+}
+
+

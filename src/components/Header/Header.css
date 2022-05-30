@@ -1,0 +1,54 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.header{
+    background: #23180d;
+    padding: 43px ;
+    margin-bottom: 50px;
+}
+.header-menu{
+    font-size: 25px;
+}
+.home{
+    font-size: 16px;
+    padding: 9px 19px;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    background-color: #a62929;
+
+}
+.api{
+    background: #23180d;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 40px;
+    padding: 9px 19px;
+}
+.api:hover{
+    background-color: #a62929;
+}
+
+.forum-btn {
+    background: #23180d;
+    border: none;
+}
+.forum{
+    color: #fff;
+    cursor: pointer;
+    font-family: Open Sans,sans-serif;
+    font-size: 16px;
+    margin-left: 30px;
+    padding: 8px 15px;
+
+    border-radius: 3px;
+}
+.forum:hover{
+    background-color: #a62929;
+}

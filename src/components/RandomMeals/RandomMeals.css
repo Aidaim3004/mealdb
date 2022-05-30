@@ -1,0 +1,20 @@
+.strMeal{
+    color: #88631d;
+    text-align:center;
+    margin-bottom: 30px;
+    transition: 0.3s;
+    font-size: 18px;
+}
+.strMeal:hover{
+    color: #f1b549;
+}
+.latestMeals{
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.random-title{
+    border-bottom: 3px  solid white;
+}
