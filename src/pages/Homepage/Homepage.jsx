@@ -24,6 +24,7 @@ const Homepage = () => {
     </div>
     <LatestMeals />
     <RandomMeals />
+    <Footer />
   </div>
   );
 };
